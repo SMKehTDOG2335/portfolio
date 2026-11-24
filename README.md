@@ -1,14 +1,6 @@
-# Portfolio: Steve Mathews Korah
+# Portfolio site
 
-Static personal portfolio site, hosted on GitHub Pages.
-
-🔗 **Live site:** https://smkehtdog2335.github.io/portfolio/
-
-## Pages
-| Page | Focus |
-|---|---|
-| [`index.html`](https://smkehtdog2335.github.io/portfolio/) | Main portfolio: summary, skills, experience, certifications |
-| [`quant.html`](https://smkehtdog2335.github.io/portfolio/quant.html) | Quant & analytics focused version with featured projects |
+Static personal portfolio site built with plain HTML, CSS and JavaScript.
 
 ## Built with
 - HTML5, CSS3 (glassmorphism UI, responsive layout), vanilla JavaScript (scroll animations)
